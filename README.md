@@ -4,7 +4,7 @@ Landing page responsiva com 2 páginas criada como projeto nos cursos de **HTML*
 
 ## ***Página Home***
 
-![página home Tiago Peniche]()
+![página home Tiago Peniche](https://github.com/Penichezito/LandingPage-Portifolio-ONE/blob/main/assets/lp-portifolio-tiago-home.jpg)
 
 ## ***Página Sobre Mim***
-![página sobre mim Tiago Peniche]()
+![página sobre mim Tiago Peniche](https://github.com/Penichezito/LandingPage-Portifolio-ONE/blob/main/assets/about-portfolio-tiago.jpg)
